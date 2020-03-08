@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp1.Entities
+﻿namespace Entities
 {
     class Product
     {
